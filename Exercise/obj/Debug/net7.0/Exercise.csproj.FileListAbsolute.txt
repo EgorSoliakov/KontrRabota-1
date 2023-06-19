@@ -1,0 +1,15 @@
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/bin/Debug/net7.0/Exercise
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/bin/Debug/net7.0/Exercise.deps.json
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/bin/Debug/net7.0/Exercise.runtimeconfig.json
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/bin/Debug/net7.0/Exercise.dll
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/bin/Debug/net7.0/Exercise.pdb
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/obj/Debug/net7.0/Exercise.csproj.AssemblyReference.cache
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/obj/Debug/net7.0/Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/obj/Debug/net7.0/Exercise.AssemblyInfoInputs.cache
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/obj/Debug/net7.0/Exercise.AssemblyInfo.cs
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/obj/Debug/net7.0/Exercise.csproj.CoreCompileInputs.cache
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/obj/Debug/net7.0/Exercise.dll
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/obj/Debug/net7.0/refint/Exercise.dll
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/obj/Debug/net7.0/Exercise.pdb
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/obj/Debug/net7.0/Exercise.genruntimeconfig.cache
+/Users/egor/Documents/Учеба/Контрольная работа 1/Exercise/obj/Debug/net7.0/ref/Exercise.dll
